@@ -1,0 +1,17 @@
+:root{
+    --cor-de-fundo: #87c2e9f3 ;
+    --cor-de-texto: #000000;
+    --fundo-senha: #ff0080;
+    --borda: #0077c7f3;
+
+}
+
+*{
+    font-weight: 400;
+}
+    
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--roboto);
+}
