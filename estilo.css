@@ -1,9 +1,18 @@
 :root{
-    --cor-de-fundo: #87c2e9f3 ;
-    --cor-de-texto: #000000;
-    --fundo-senha: #ff0080;
-    --borda: #0077c7f3;
+    --bg-colors: #181C14;
+    --primary-color: #3C3D37;
+    --secundary-color: #697565;
+    --font: "Nunito Sans", sans serif;
+}
 
+.cabecalho{
+    background-color: var(--bg-colors);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: var(--primary-color);
 }
 
 *{
