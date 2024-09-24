@@ -14,3 +14,13 @@
     padding: 20px;
     color: var(--primary-color);
 }
+
+*{
+    font-weight: 400;
+}
+    
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--roboto);
+}
