@@ -22,5 +22,15 @@ h1{
 }
 
 nav a{
-    
+    text-decoration: none;
+    color-var(--bg-color);
+    margin: ;
+
+}
+nav a hover;
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--primary-color);
 }
